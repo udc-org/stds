@@ -1,0 +1,2 @@
+# stds
+Hamma kiritilgan standartizatsiyalar
